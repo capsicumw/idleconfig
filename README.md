@@ -3,7 +3,7 @@ idle config file with color scheme
 
 In debian linux these files are stored in /home/[username]/.idlerc/ 
 
-If config-highlight.cfg doesn't exist you can add it manually, or from within idle Go to menu Options -> Configure then on the Highlights tab select the custom theme button and make a new named theme or two (any colors for now) save changes and close Idle. Then find the config file and you can copy and paste this scheme into said file. You can also change the name from " [muhDrk] " to " [anything] " save the file then restart Idle. Go to menu Options -> Configure, Highlights tab, select the custom theme button, and the new theme should be in the dropdown list. 
+If config-highlight.cfg doesn't exist you can add it manually, or from within idle Go to menu Options -> Configure then on the Highlights tab select new theme give it a name (any colors for now, make two themes to better see how they are stored.) save the changes and close Idle. Then find the config file and you can copy and paste this scheme into said file. You can also change the name from " [muhDrk] " to " [anything] " save the file then restart Idle. Go to menu Options -> Configure, Highlights tab, select the custom theme button, and the new theme should be in the dropdown list. 
 
 I recomend closing Idle before making external config file changes just so they do not get accidentally over-written.  
 
